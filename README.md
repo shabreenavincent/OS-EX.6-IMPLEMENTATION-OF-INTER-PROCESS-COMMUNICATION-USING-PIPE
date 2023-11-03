@@ -1,9 +1,10 @@
 # OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE
 
-## AIM:
+# AIM:
 Write C programs to illustrate IPC using pipes mechanisms
 
-## ALGORITHM:
+
+# ALGORITHM:
 IPC using pipes
 
 1.Create a child process usingfork()
@@ -18,7 +19,8 @@ IPC using pipes
 
 6.Display thetext.
 
-## PROGRAM:
+
+# PROGRAM:
 ```
 #include <stdio.h>
 
@@ -60,9 +62,13 @@ return 0;
 
 }
 ```
-## OUTPUT:
-![image](https://github.com/Yogabharathi3/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/118899387/19c3a395-e844-46f7-9f29-7f520689a5bc)
 
 
-## RESULT:
+
+# OUTPUT:
+
+![os exp sic pic](https://github.com/kancharlaNarmadha/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/119559316/0e999150-bfe0-4dab-a4d4-49f823dccdde)
+
+
+# RESULT:
 Thus, IPC using pipes mechanisms is illustrated using c program successfully
